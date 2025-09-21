@@ -45,7 +45,11 @@ The goal of this project is to **analyze business performance**, identify **prof
 - **Consumers** are the largest customer segment (5.2K product IDs).  
 - **Binders, Paper, and Phones** are top-selling categories.  
 - Certain categories (e.g., Furnishings, Storage) show **low profitability** despite high sales.  
-- Sales are concentrated in **major U.S. states**, but opportunities exist in underperforming regions.  
+- Sales are concentrated in **major U.S. states**, but opportunities exist in underperforming regions.
+## <img width="1865" height="893" alt="image" src="https://github.com/user-attachments/assets/037bd61d-4731-4647-8d70-728cd614ab55" />
+## <img width="1236" height="675" alt="image" src="https://github.com/user-attachments/assets/30e12fed-a041-4291-9d70-e3201b708a3c" />
+
+
 
 ---
 
